@@ -1,0 +1,9 @@
+p{
+    color: blue;
+}
+.head{
+    position: relative;
+    margin-left: 25%;
+    background-color: blueviolet;
+    display:inline-block;
+}
